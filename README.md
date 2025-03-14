@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
+- 📫 How to reach me **Giorgi.Tefnadze.1@btu.edu.ge**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
